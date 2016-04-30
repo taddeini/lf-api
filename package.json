@@ -9,6 +9,8 @@
   "license": "ISC",
   "dependencies": {
     "compression": "^1.6.1",
-    "express": "^4.13.4"
+    "connect-busboy": "0.0.2",
+    "express": "^4.13.4",
+    "fs-extra": "^0.30.0"
   }
 }
