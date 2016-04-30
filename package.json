@@ -1,0 +1,14 @@
+{
+  "name": "lf-api",
+  "version": "0.1.0",
+  "description": "API for OCR proof of concept",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Andre Taddeini",
+  "license": "ISC",
+  "dependencies": {
+    "compression": "^1.6.1",
+    "express": "^4.13.4"
+  }
+}
